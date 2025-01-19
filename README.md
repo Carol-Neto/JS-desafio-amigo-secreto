@@ -2,7 +2,7 @@
 
 ## Desafio Amigo Secreto
 
-Link do jogo > [Jogo](https://desafio-amigo-secreto.vercel.app) 
+Link do jogo > [Jogo](https://carol-neto.github.io/JS-desafio-amigo-secreto/) 
 
 ### Descrição do Projeto 
 
